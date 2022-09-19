@@ -14,6 +14,8 @@ Robotically-assisted minimally invasive surgery (RAMIS) has became a popularly a
 
 Code Description:
 
+data -> all data for training and testing (empty due to large size, please contact author to get dataset)
+
 predictions -> the predicted result from each model and each dataset
 
 TransUNet-single -> all files to run TransUNet model

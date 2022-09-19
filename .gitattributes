@@ -1,0 +1,1 @@
+model/vit_checkpoint/imagenet21k/R50+ViT-B_16.npz filter=lfs diff=lfs merge=lfs -text
